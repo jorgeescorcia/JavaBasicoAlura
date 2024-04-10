@@ -1,0 +1,14 @@
+
+]
+java:S1220""Move this file to a named package.8»¯Ääê1J$dee4a87e-350d-48fb-ac9e-64e80855c3d9
+Œ
+java:S1854"DRemove this useless assignment to local variable "notaDeLaPelicula".(ğ‹Ëûÿÿÿÿ8Ê¯Ääê1J$5dcb1706-834d-4137-9a84-abaa4f811b7e
+m	java:S106"+Replace this use of System.out by a logger.(¢ñğ£8Ì¯Ääê1J$7e6da704-69cf-45d7-af6b-ffd469550d74
+m	java:S106"+Replace this use of System.out by a logger.(œ§İô8Í¯Ääê1J$95f2be31-9223-4d59-8097-21187e854b91
+x
+java:S1481"5Remove this unused "inlcuidoEnElPlan" local variable.(‚ó¯¼8Î¯Ääê1J$bb69b6de-d29d-4340-8d23-f762fb346e30
+}
+java:S1481"5Remove this unused "notaDeLaPelicula" local variable.(ğ‹Ëûÿÿÿÿ8Ï¯Ääê1J$0cb7a999-f4e4-48f9-a664-552f2a603d2b
+m	java:S106"+Replace this use of System.out by a logger.(¦ĞôÛ8Ï¯Ääê1J$a9ab67cd-19a8-48dd-b8a2-9deb776420c5
+r	java:S106"+Replace this use of System.out by a logger.(Ÿêİúÿÿÿÿ8Ğ¯Ääê1J$147a00c5-bbd6-473a-ab4b-8aa100bbcdf2
+l	java:S106"+Replace this use of System.out by a logger.(ñÇ¨68˜¸Èäê1J$1f7d7b1e-1391-4429-9ec4-f813b390d942

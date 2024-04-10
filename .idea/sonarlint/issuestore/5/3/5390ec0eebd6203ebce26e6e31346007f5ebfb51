@@ -1,0 +1,14 @@
+
+]
+java:S1220""Move this file to a named package.8èõäê1J$692e47c2-ca23-4028-b518-ad0865427146
+Z
+java:S2589"8Remove this expression which always evaluates to "false"(Æî‰¼ûÿÿÿÿ8¥Ü÷äê1
+Œ
+java:S1854"DRemove this useless assignment to local variable "notaDeLaPelicula".(ğ‹Ëûÿÿÿÿ8—‚õäê1J$8ee62dc3-7f1a-45b2-a116-3fd91dc5a2de
+}
+java:S1481"5Remove this unused "notaDeLaPelicula" local variable.(ğ‹Ëûÿÿÿÿ8™‚õäê1J$40176b20-b150-4ca1-97be-a3919b6e75c0
+r	java:S106
+"+Replace this use of System.out by a logger.(ş˜ìØüÿÿÿÿ8›‚õäê1J$245e142e-c90d-4355-874a-41c4c8f0becc
+m	java:S106"+Replace this use of System.out by a logger.(äâìŞ8‚õäê1J$2308c2b7-d90f-4534-823b-271c7b1e503e
+r	java:S106"+Replace this use of System.out by a logger.(âåÿúÿÿÿÿ8¡‚õäê1J$2e3008eb-125a-4ada-b511-944c19c9023c
+r	java:S106"+Replace this use of System.out by a logger.(¹š…¶øÿÿÿÿ8£‚õäê1J$565f6bb6-cc40-459a-ac22-8070a39bcb2f
